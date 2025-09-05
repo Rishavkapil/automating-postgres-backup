@@ -1,4 +1,4 @@
-# TO Automate the backup of mysql data using bash script
+# TO Automate the backup of POSTGRES data using bash script
 
 You just need to run docker containers 
 
